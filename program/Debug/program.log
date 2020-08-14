@@ -1,0 +1,14 @@
+﻿  program.cpp
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(23,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(27,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(32,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(43,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(54,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(67,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(83,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(98,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(109,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(116,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(122,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Natalia\Desktop\Słownik\program\program\program.cpp(130,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  program.vcxproj -> C:\Users\Natalia\Desktop\Słownik\program\Debug\program.exe

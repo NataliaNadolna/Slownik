@@ -1,0 +1,10 @@
+Umozliwia abstrakcje danych oraz stosowanie kilku paradygmatow programowania 
+proceduralnego obiektowego i generycznego Charakteryzuje sie wysoka wydajnoscia kodu wynikowego, 
+bezposrednim dostepem do zasobow sprzetowych i funkcji systemowych latwoscia tworzenia i korzystania z 
+bibliotek napisanych w C++ C lub innych jezykach niezaleznoscia od konkretnej platformy sprzetowej lub systemowej 
+oraz niewielkim srodowiskiem uruchomieniowym Podstawowym obszarem jego zastosowan sa aplikacje i systemy operacyjne
+C++ zostal zaprojektowany przez Bjarne Stroustrupa jako rozszerzenie jezyka C o obiektowe mechanizmy abstrakcji danych 
+i silna statyczna kontrole typow Zachowanie zgodnosci z jezykiem C na poziomie kodu zrodlowego pozostaje jednym z podstawowych 
+celow projektowych kolejnych standardow jezyka
+W latach 90 XX wieku jezyk C++ zdobyl pozycje jednego z najpopularniejszych jezykow programowania ogolnego przeznaczenia 
+Na poczatku XXI wieku liczbe programistow jezyka C++ szacowano na okolo trzy miliony
